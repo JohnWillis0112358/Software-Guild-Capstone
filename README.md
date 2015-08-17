@@ -20,6 +20,7 @@
 -Ability to set status of post (pending/OK/Soft-delete)  
 -Html stripper filter in model directory and integration with substring on blog summary partial  
 -Partial View, display blog posts  
+-Formatted sidebar and blog positioning  
   
 
 ###Ryan completed:  
